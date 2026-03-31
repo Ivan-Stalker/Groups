@@ -1,0 +1,103 @@
+2026-03-16 20:24:09,293 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2026-03-16 20:24:11,707 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2026-03-16 20:24:50,505 - INFO - Telegram client started successfully.
+2026-03-16 20:24:50,506 - INFO - Starting new mailing cycle...
+2026-03-16 20:24:51,461 - INFO - Successfully sent message to https://t.me/Rabota_PFO_UrFO
+20:24 https://t.me/Rabota_PFO_UrFO OK 
+2026-03-16 20:24:51,495 - INFO - Successfully sent message to https://t.me/wedoitru
+20:24 https://t.me/wedoitru OK 
+2026-03-16 20:24:51,524 - INFO - Successfully sent message to https://t.me/smsk2020
+20:24 https://t.me/smsk2020 OK 
+2026-03-16 20:24:51,559 - INFO - Successfully sent message to https://t.me/BuildBiznes
+20:24 https://t.me/BuildBiznes OK 
+2026-03-16 20:24:51,651 - INFO - Successfully sent message to https://t.me/freelance_in_telegram
+20:24 https://t.me/freelance_in_telegram OK 
+2026-03-16 20:24:51,653 - INFO - Cycle complete. Waiting 60 seconds...
+2026-03-16 20:25:39,926 - INFO - Got difference for channel 1176964113 updates
+2026-03-16 20:25:40,127 - INFO - Got difference for channel 1461120193 updates
+2026-03-16 20:25:51,656 - INFO - Starting new mailing cycle...
+2026-03-16 20:25:52,029 - INFO - Successfully sent message to https://t.me/wedoitru
+20:25 https://t.me/wedoitru OK 
+2026-03-16 20:25:52,045 - INFO - Successfully sent message to https://t.me/freelance_in_telegram
+20:25 https://t.me/freelance_in_telegram OK 
+2026-03-16 20:25:52,218 - INFO - Successfully sent message to https://t.me/Rabota_PFO_UrFO
+20:25 https://t.me/Rabota_PFO_UrFO OK 
+2026-03-16 20:25:52,245 - INFO - Successfully sent message to https://t.me/smsk2020
+20:25 https://t.me/smsk2020 OK 
+2026-03-16 20:25:52,277 - INFO - Successfully sent message to https://t.me/BuildBiznes
+20:25 https://t.me/BuildBiznes OK 
+2026-03-16 20:25:52,278 - INFO - Cycle complete. Waiting 60 seconds...
+2026-03-16 20:26:32,114 - INFO - Got difference for channel 1250590505 updates
+2026-03-16 20:26:52,301 - INFO - Starting new mailing cycle...
+2026-03-16 20:26:53,323 - INFO - Successfully sent message to https://t.me/freelance_in_telegram
+20:26 https://t.me/freelance_in_telegram OK 
+2026-03-16 20:26:53,331 - INFO - Successfully sent message to https://t.me/Rabota_PFO_UrFO
+20:26 https://t.me/Rabota_PFO_UrFO OK 
+2026-03-16 20:26:53,340 - INFO - Successfully sent message to https://t.me/smsk2020
+20:26 https://t.me/smsk2020 OK 
+2026-03-16 20:26:53,348 - INFO - Successfully sent message to https://t.me/wedoitru
+20:26 https://t.me/wedoitru OK 
+2026-03-16 20:26:53,357 - INFO - Successfully sent message to https://t.me/BuildBiznes
+20:26 https://t.me/BuildBiznes OK 
+2026-03-16 20:26:53,359 - INFO - Cycle complete. Waiting 60 seconds...
+2026-03-16 20:26:54,209 - INFO - Got difference for channel 1176964113 updates
+2026-03-16 20:26:54,547 - INFO - Got difference for channel 1249436249 updates
+2026-03-16 20:26:55,074 - INFO - Got difference for channel 1250590505 updates
+2026-03-16 20:26:55,590 - INFO - Got difference for channel 1740831874 updates
+2026-03-16 20:27:53,368 - INFO - Starting new mailing cycle...
+2026-03-16 20:27:54,629 - INFO - Successfully sent message to https://t.me/wedoitru
+20:27 https://t.me/wedoitru OK 
+2026-03-16 20:27:54,642 - INFO - Successfully sent message to https://t.me/freelance_in_telegram
+20:27 https://t.me/freelance_in_telegram OK 
+2026-03-16 20:27:54,649 - INFO - Successfully sent message to https://t.me/smsk2020
+20:27 https://t.me/smsk2020 OK 
+2026-03-16 20:27:54,660 - INFO - Successfully sent message to https://t.me/Rabota_PFO_UrFO
+20:27 https://t.me/Rabota_PFO_UrFO OK 
+2026-03-16 20:27:54,671 - INFO - Successfully sent message to https://t.me/BuildBiznes
+20:27 https://t.me/BuildBiznes OK 
+2026-03-16 20:27:54,673 - INFO - Cycle complete. Waiting 60 seconds...
+2026-03-16 20:27:54,693 - INFO - Got difference for channel 1250590505 updates
+2026-03-16 20:27:55,208 - INFO - Got difference for channel 1461120193 updates
+2026-03-16 20:27:55,569 - INFO - Got difference for channel 1176964113 updates
+2026-03-16 20:28:54,685 - INFO - Starting new mailing cycle...
+2026-03-16 20:28:55,811 - INFO - Successfully sent message to https://t.me/smsk2020
+20:28 https://t.me/smsk2020 OK 
+2026-03-16 20:28:55,822 - INFO - Successfully sent message to https://t.me/Rabota_PFO_UrFO
+20:28 https://t.me/Rabota_PFO_UrFO OK 
+2026-03-16 20:28:55,829 - INFO - Successfully sent message to https://t.me/wedoitru
+20:28 https://t.me/wedoitru OK 
+2026-03-16 20:28:55,837 - INFO - Successfully sent message to https://t.me/freelance_in_telegram
+20:28 https://t.me/freelance_in_telegram OK 
+2026-03-16 20:28:55,845 - INFO - Successfully sent message to https://t.me/BuildBiznes
+20:28 https://t.me/BuildBiznes OK 
+2026-03-16 20:28:55,848 - INFO - Cycle complete. Waiting 60 seconds...
+2026-03-16 20:28:56,342 - INFO - Got difference for channel 1176964113 updates
+2026-03-16 20:29:12,681 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2026-03-16 20:29:12,683 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-03-16 20:29:12,698 - INFO - Script stopped by user.
+2026-03-21 19:56:39,037 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2026-03-21 19:56:42,206 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2026-03-21 19:57:37,268 - ERROR - Failed to start Telegram client: 
+2026-03-21 19:57:37,269 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2026-03-21 19:57:37,275 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-03-21 19:57:37,286 - INFO - Script stopped by user.
+2026-03-31 21:09:47,573 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2026-03-31 21:09:49,317 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2026-03-31 21:10:27,430 - INFO - Telegram client started successfully.
+2026-03-31 21:10:27,430 - INFO - Starting new mailing cycle...
+2026-03-31 21:10:27,714 - INFO - Successfully sent message to https://t.me/chatiks65
+21:10 https://t.me/chatiks65 OK 
+2026-03-31 21:10:27,929 - INFO - Successfully sent message to https://t.me/grupaim
+21:10 https://t.me/grupaim OK 
+2026-03-31 21:10:27,970 - INFO - Successfully sent message to https://t.me/gruppacn
+21:10 https://t.me/gruppacn OK 
+2026-03-31 21:10:27,991 - INFO - Successfully sent message to https://t.me/chatOXS
+21:10 https://t.me/chatOXS OK 
+2026-03-31 21:10:28,005 - INFO - Successfully sent message to https://t.me/gruppadevkap
+21:10 https://t.me/gruppadevkap OK 
+2026-03-31 21:10:28,007 - INFO - Cycle complete. Waiting 13 minutes (836 seconds)...
+2026-03-31 21:10:36,959 - INFO - Got difference for channel 2455909980 updates
+2026-03-31 21:10:47,179 - INFO - Got difference for channel 2455909980 updates
+2026-03-31 21:11:07,042 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2026-03-31 21:11:07,043 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-03-31 21:11:07,048 - INFO - Script stopped by user.
